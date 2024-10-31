@@ -5,7 +5,7 @@
 }
 .main{
     height: 80vh; 
-    background-image: url(netflixclone/images/netflixbackground.jpg);
+    background-image: url(images/netflixbackground.jpg);
     background-position: center center;
     background-repeat:no-repeat ;
     background-size: max(1200px,100vw);
