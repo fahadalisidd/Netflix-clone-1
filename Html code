@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="main"> 
+        <nav class="header" >
+            <span><img src="netflixclone/images/netflixlogo.svg" ></span>
+            <div>
+                <select id="transbutton">English
+                    <option style="color:black" >English</option>
+                    <option style="color:black">Hindi</option>
+                </select>
+                <button class="redbutton" type="submit">Sign In</button>    
+            </div>    
+        </nav>
+        <div class="box"></div>
+            <div class="text">
+                <span class="firsttext">Unlimited movies,TV <span>
+                </span class=firsttext>shows and more</span>
+                <span> Starts at ₹149. Cancel at any time.</span>
+                <div>Ready to watch? Enter your email to create or restart your membership.</div>
+            </div>
+            <div id="mailget">
+                <input  id="mail" type="text" placeholder="Email address">
+                <button id="redbutton2" type="submit">Get Started ></button>
+            </div>
+    </div>
+    <div class="sep"></div>
+    <div class="mid">
+        <h2>Trending Now</h2>
+        <div class="midbuttons">
+            <select class="transbutton1">
+                <option style="color: black;">India</option>
+                <option style="color:black;">Global</option>
+            </select>
+            <select  class="transbutton1">
+                <option style="color: black;">Movies</option>
+                <option style="color: black;">Tv shows</option>
+            </select>
+            <div class="postersmovies">
+                <div class="poster">
+                    <span ><img src="netflixclone/images/img1.WEB" style="border-radius: 10px;"></span>
+                    <span><img src="netflixclone/images/img2.WEB"  style="border-radius: 10px;"> </span>
+                    <span><img src="netflixclone/images/img3.WEB"  style="border-radius: 10px;"></span>
+                    <span><img src="netflixclone/images/img4.webp" style="border-radius: 10px;"></span>
+                    <span><img src="netflixclone/images/img5.webp" style="border-radius: 10px;"></span>
+                </div>
+            </div>
+        <h2>More reasons to join</h2>
+        <div class="card">
+            <div class="d">
+                <div class="containerheading">
+                    <h2>Enjoy on your TV</h2>
+                </div>
+                <div class="containertext">
+                    <span>Watch on smart TVs,</span>
+                    <span> PlayStation, Xbox,</span> 
+                    <span>Chromecast, Apple TV,</span>
+                    <span>Blu-ray players and more.</span>
+                </div>
+            </div>
+            <div class="d">
+                <div class="containerheading">
+                    <h2>Download your</h2>
+                    <h2>shows to watch</h2> 
+                    <h2>offline</h2>
+                </div>
+                <div class="containertext">
+                    <span>Save your favourites easily </span>
+                    <span>and always have </span>
+                    <span>something to watch.</span>
+                </div>
+            </div>
+            <div class="d">
+                <div class="containerheading">
+                    <h2>Watch </h2>
+                    <h2>everywhere  </h2>
+                </div>
+                <div class="containertext">
+                    <span>Stream unlimited movies</span>
+                    <span>and always have </span>
+                    <span>and TV shows on your</span></h2>
+                    <span>phone, tablet, laptop and</span>
+                    <span>TV.</span>
+                </div>
+            </div>
+            <div class="d">
+                <div class="containerheading">
+                    <h2>Create profiles </h2>
+                    <h2>for kids</h2>
+                </div>
+                <div class="containertext">
+                    <span>Send kids on adventures</span>
+                    <span>with their favourite</span>
+                    <span>characters in a space made</span></h2>
+                    <span>just for them — free with</span>
+                    <span>your membership.</span>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="quest">
+            <h2>Frequently Asked Questions</h2>
+            <div id="check">
+                <div class="questions"><h2>What is Netflix?</h2></div>
+                <div class="questions"><h2>How much does Netflix cost?</h2></div>
+                <div class="questions"><h2>Where can I watch?</h2></div>
+                <div class="questions"><h2>How do I cancel?</h2></div>
+                <div class="questions"><h2>What can I watch on Netflix?</h2></div>
+                <div class="questions"><h2>Is Netflix good for kids?</h2></div>
+            </div>
+            <div id="mailget" style="position: relative;">
+                <input  id="mail" type="text" placeholder="Email address">
+                <button id="redbutton2" type="submit">Get Started ></button>
+            </div>
+        </div>
+    </div>
+    <div class="footer">
+        <p>Questions?call 000-800-919-1694</p>
+        <div class="links">
+            <div class="element1">
+                <a href="/faq">FAQ</a>
+                <a href="/Investor relation">Investor relation</a>
+                <a href="/Privacy">Privacy</a>
+                <a href="/Speed Test">Speed Test</a>
+            </div>
+            <div class="element2">
+                <a href="/Helpcenter">Help centre</a>
+                <a href="/Jobs">Jobs</a>
+                <a href="/Cookie Preference">Cookie Preference</a>
+                <a href="/Legal Notices">Legal Notices</a>
+            </div>
+            <div class="element3">
+                <a href="/Account">Account</a>
+                <a href="/Ways to watch">ways to watch</a>
+                <a href="/Corporate Information">Corporate Information</a>
+                <a href="/Only on Netflix">Only on Netflix</a>
+            </div>
+            <div class="element3">
+                <a href="/Media centre">Media centre</a>
+                <a href="/Terms of use">Terms of use</a>  
+                <a href="/Contact us">Contact us</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
