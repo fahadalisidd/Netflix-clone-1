@@ -1,2 +1,4 @@
 # Netflix-clone-1
-Its a netflix clone that i made just after learning html ans css ,its not accurate 
+Its a simple netflix clone
+Its not very accurate and has losts of colors mistaken 
+Its the first project that I made after learning html ans css
