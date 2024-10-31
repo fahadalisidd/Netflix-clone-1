@@ -9,7 +9,7 @@
 <body>
     <div class="main"> 
         <nav class="header" >
-            <span><img src="netflixclone/images/netflixlogo.svg" ></span>
+            <span><img src="images/netflixlogo.svg" ></span>
             <div>
                 <select id="transbutton">English
                     <option style="color:black" >English</option>
@@ -44,11 +44,11 @@
             </select>
             <div class="postersmovies">
                 <div class="poster">
-                    <span ><img src="netflixclone/images/img1.WEB" style="border-radius: 10px;"></span>
-                    <span><img src="netflixclone/images/img2.WEB"  style="border-radius: 10px;"> </span>
-                    <span><img src="netflixclone/images/img3.WEB"  style="border-radius: 10px;"></span>
-                    <span><img src="netflixclone/images/img4.webp" style="border-radius: 10px;"></span>
-                    <span><img src="netflixclone/images/img5.webp" style="border-radius: 10px;"></span>
+                    <span ><img src="images/img1.jpg" style="border-radius: 10px;"></span>
+                    <span><img src="images/img2.jpg"  style="border-radius: 10px;"> </span>
+                    <span><img src="images/img3.jpg"  style="border-radius: 10px;"></span>
+                    <span><img src="images/img4.webp" style="border-radius: 10px;"></span>
+                    <span><img src="images/img5.webp" style="border-radius: 10px;"></span>
                 </div>
             </div>
         <h2>More reasons to join</h2>
